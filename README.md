@@ -30,7 +30,7 @@ import pandas as pd
 df = pd.read_csv("https://huggingface.co/datasets/sairamn/gcp-cloud-billing-cost/resolve/main/data.csv")
 ```
 
-**📸 report Preview**
+**📸 Report Preview**
 
 ![image](https://github.com/user-attachments/assets/e3ff39f9-9811-4f8d-b2f8-674daec61875)
 ![image](https://github.com/user-attachments/assets/9ec6c343-4c61-4681-a060-9cf4e1748ed9)
